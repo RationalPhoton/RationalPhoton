@@ -26,11 +26,11 @@
 
  - 🛸 Lazy in discovering bugs!
  
- - I do ReactJS and Typescript with *Redux Caching* and a lot of love :heart:
+ - I solve problems, perform dynamic programming with lots of love. :heart:
  
  
  <p align="center">
-  <h4> Competitive Programming | MERN Stack | Databases | Full Stack | Java | Python | Cloud | Linux </h4>
+  <h4> Competitive Programming | DSA | Problem Solving | MERN Stack | Databases | Full Stack | Java | Python | Cloud | Linux </h4>
    </p>
 
 
