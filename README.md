@@ -18,7 +18,7 @@
   <h3> I'm Shashikant Jagtap.</h3>
 </p>
 
- - 🥀 Practicing Cloud, Python, Java, NextJs  & Typescript
+ - 🥀 Practicing Data structure, Algorithm, Problem solving, Cloud, Python, Java  & Typescript
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
